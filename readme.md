@@ -1,5 +1,4 @@
-# python version
-python 3
+# run scriptpython 3
 
 # install necessary libraries/modules
 python3 -m pip install -r requirements.txt
